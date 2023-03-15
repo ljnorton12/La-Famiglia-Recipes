@@ -1,0 +1,31 @@
+img.styled-image {
+    
+    border: 5px solid black;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+    display: block;
+    
+    }
+
+   
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    color: green;
+}
+
+#centered-text {
+    text-align: center;
+}
+
+.center2 {
+    color: rgb(156, 12, 12)
+}
+
+.center3 {
+    color: green;
+}
