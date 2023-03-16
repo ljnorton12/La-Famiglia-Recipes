@@ -25,9 +25,11 @@ img.styled-image {
     justify-content: center;
     height: auto;
     color: rgb(0, 0, 0);
-    font-family: open sans, Helvetica, sans-serif;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.3);
-    font-size: 60px;
+    font-family: 'Playfair Display', serif;
+    
+    font-size: 55px;
+    font-weight: 700;
+    line line-height: 1.2;
 }
 
 #centered-text {
