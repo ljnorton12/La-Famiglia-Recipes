@@ -1,8 +1,17 @@
+
+
+
+
+
+
+
+
+
 img.styled-image {
     
-    border: 5px solid black;
-    height: 300px;
-    width: 300px;
+    
+    height: 600px;
+    width: 500px;
     margin: 0 auto;
     display: block;
     
@@ -15,11 +24,15 @@ img.styled-image {
     align-items: center;
     justify-content: center;
     height: auto;
-    color: green;
+    color: rgb(0, 0, 0);
+    font-family: open sans, cursive, sans-serif;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.3);
+    font-size: 60px;
 }
 
 #centered-text {
     text-align: center;
+    font-family: "Comic Sans Ms", cursive, sans-serif;
 }
 
 .center2 {
@@ -28,4 +41,19 @@ img.styled-image {
 
 .center3 {
     color: green;
+}
+
+.ingredients-box {
+    border: 5px solid #333;
+    padding: 20px;
+}
+
+.ingredients-box2 {
+    border: 5px solid #333;
+    padding: 20px;
+
+}
+
+body {
+    background-color: rgba(207, 206, 184, 0.437);
 }
