@@ -25,14 +25,14 @@ img.styled-image {
     justify-content: center;
     height: auto;
     color: rgb(0, 0, 0);
-    font-family: open sans, cursive, sans-serif;
+    font-family: open sans, Helvetica, sans-serif;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.3);
     font-size: 60px;
 }
 
 #centered-text {
     text-align: center;
-    font-family: "Comic Sans Ms", cursive, sans-serif;
+    font-family: "Comic Sans Ms";
 }
 
 .center2 {
