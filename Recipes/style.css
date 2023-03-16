@@ -24,12 +24,13 @@ img.styled-image {
     align-items: center;
     justify-content: center;
     height: auto;
-    color: rgb(0, 0, 0);
-    font-family: 'Playfair Display', serif;
-    
-    font-size: 55px;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
     font-weight: 700;
-    line line-height: 1.2;
+    line-height: 1.2;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    letter-spacing: -1px;
 }
 
 #centered-text {
